@@ -1,0 +1,99 @@
+ @import
+            url('https://fonts.googleapis.com/css?family=Rock+Salt');
+            .content {
+                width: 80%;
+                max-width: 960 px;
+                margin:0 auto;
+            }
+            #top-row,#third-row {
+                background-color:azure;
+            } 
+            #second-row {
+                background-color:aliceblue;
+            }
+            #second-row, #third-row{
+            display: flex;
+            padding: 15px;
+    
+}
+            .leftcol {
+            margin-right: .5em; 
+    
+}
+.banner img {
+    width: 100%;
+}
+            nav  {
+                    background-color: azure;
+                    font-size: 1.2em;
+                    line-height: 3em;
+                    margin-top: -5em;
+                    padding: lem; 
+
+            }
+
+             nav li {
+        flex: 1;
+    
+        }
+
+        nav ul {
+            display: flex;
+                list-style-type: none; 
+            margin-left: 5em;
+    
+            }
+
+
+            
+            .content {
+                width: 80%
+                max-width: 960;
+                margin: 0 auto;
+            }
+    
+            .logo {
+                background-color: white;
+                position: relaive;
+                display: inline-block;
+                width: 110px;
+
+            }
+
+            nav a:link, nav a:visited{
+                color: mediumblue;
+                text-decoration: none;
+                
+            }
+
+            nav a:hover {
+                text-decoration: underline;
+                color: rebeccapurple;
+            }
+            
+            h1, h2, h3{ color:cornflowerblue;
+                        font-family: "Rock Salt", Times, serif;
+            }  
+            
+
+            
+            #fourth-row {
+                text-align: center;
+                width: 70%
+                margin: 0 auto;
+    
+            }
+            
+            body {
+                font-family: Arial, Helvectia, sans-serif;}
+            }
+            
+            section{
+                padding: 15px;
+            }
+            
+            p{
+                line-height: 1.5;
+            }
+
+       
