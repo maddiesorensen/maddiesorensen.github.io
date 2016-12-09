@@ -20,15 +20,22 @@
             margin-right: .5em; 
     
 }
+
+.title{
+    color:aliceblue;
+    text-align: center;
+    font-size: 1.5em
+    
+}
 .banner img {
     width: 100%;
 }
             nav  {
                     background-color: azure;
                     font-size: 1.2em;
-                    line-height: 3em;
+                    line-height: 4em;
                     margin-top: -5em;
-                    padding: lem; 
+                    padding: em; 
 
             }
 
