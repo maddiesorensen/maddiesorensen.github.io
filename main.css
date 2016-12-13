@@ -103,8 +103,18 @@
                 line-height: 1.5;
             }
 
-.rapids image{
+.Rapids-image{
     float: right;
+}
+
+.rapid-2{
+    float: left;
+
+}
+
+.waterfall-image{
+    float:right;
+}
 }
 
        
