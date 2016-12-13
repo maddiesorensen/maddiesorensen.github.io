@@ -116,14 +116,14 @@
 
 .waterfall-image{
     float:right;
-    margin-left: 1em
+    margin-left: 1em;
 
 }
 
 .water-image{
     float:right;
-    margin-left: 2em
-    margin-bottom: 2em
+    margin-left: 2em;
+    margin-bottom: 2em;
 }
 
 .clear{
@@ -131,4 +131,7 @@
     overflow: auto
 }
 
-       
+.packing{
+    padding-left: 20px;
+    line-height: 1.6em;
+}   
